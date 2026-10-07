@@ -16,7 +16,7 @@ import (
 )
 
 const (
-	DeveloperName = "jakeloai+AI"
+	DeveloperName = "JakeLo"
 	Version       = "1.0.1"
 )
 
